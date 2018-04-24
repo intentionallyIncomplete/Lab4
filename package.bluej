@@ -1,3 +1,32 @@
 #BlueJ package file
-#Mon Apr 23 21:17:58 PDT 2018
+editor.fx.0.height=693
+editor.fx.0.width=816
+editor.fx.0.x=6
+editor.fx.0.y=10
+objectbench.height=101
+objectbench.width=484
+package.divider.horizontal=0.6
+package.divider.vertical=0.6776119402985075
+package.editor.height=220
+package.editor.width=394
+package.editor.x=841
+package.editor.y=272
+package.frame.height=434
+package.frame.width=524
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
 project.charset=UTF-8
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+target1.height=50
+target1.name=LoopsP3
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=70
+target1.y=10
